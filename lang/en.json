@@ -1,0 +1,60 @@
+{
+    "form-lang":{
+        "select": "Language",
+        "es": "Spanish",
+        "en": "English"
+    },
+    "form-theme":{
+        "select": "Theme",
+        "light": "Light",
+        "dark": "Dark"
+    },
+    "h-1": {
+        "price": "$2.36",
+        "title": "BBQ Crunch",
+        "description": "1 BBQ Crunch Sandwich (1 breaded chicken fillet)",
+        "buy": "Buy"
+    },
+    "h-2": {
+        "price": "$4.22",
+        "title": "Kentucky Sandwich",
+        "description": "1 Kentucky hamburger/sandwich (1 breaded chicken breast fillet, pickles...)",
+        "buy": "Buy"
+    },
+    "h-3": {
+        "price": "$4.22",
+        "title": "BBQ Crunch Combo",
+        "description": "1 BBQ Crunch Sandwich + 1 Small Fries + 1 PET Soda",
+        "buy": "Buy"
+    },
+    "h-4": {
+        "price": "$4.48",
+        "title": "Kentucky Colonel Sandwich",
+        "description": "1 Kentucky Colonel hamburger/sandwich (1 breaded chicken breast fillet, salad...)",
+        "buy": "Buy"
+    },
+    "h-5": {
+        "price": "$5.81",
+        "title": "Kentucky Sandwich Combo",
+        "description": "1 Kentucky hamburger/sandwich (1 breaded chicken breast fillet, pickles...)",
+        "buy": "Buy"
+    },
+    "h-6": {
+        "price": "$6.07",
+        "title": "Kentucky Colonel Sandwich Combo",
+        "description": "1 Kentucky Colonel hamburger/sandwich (1 breaded chicken breast fillet, salad...)",
+        "buy": "Buy"
+    },
+    "h-7": {
+        "price": "$6.34",
+        "title": "Crispy BBQ Sandwich",
+        "description": "1 Crispy BBQ Sandwich (1 extra-large chicken breast fillet, triple breaded, crispy onion...)",
+        "buy": "Buy"
+    },
+    "h-8": {
+        "price": "$7.93",
+        "title": "Crispy BBQ Sandwich Combo",
+        "description": "1 Crispy BBQ Sandwich (1 extra-large chicken breast fillet, triple breaded, crispy onion...)",
+        "buy": "Buy"
+    }
+}

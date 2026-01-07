@@ -1,0 +1,69 @@
+{
+    "form-lang":{
+        "select": "Idioma",
+        "es": "Español",
+        "en": "English"
+    },
+    "form-theme":{
+        "select": "Tema",
+        "light": "Claro",
+        "dark": "Oscuro"
+    },
+
+    "h-1":{
+        "price": "8.900 COP",
+        "title": "BBQ Crunch",
+        "description": "1 Sandwich BBQ Crunch (1 Filete de pollo apanado)",
+        "buy": "Comprar"
+
+    },
+    "h-2":{
+        "price": "15.900 COP",
+        "title": "Kentucky Sandwich",
+        "description": "1 Kentucky hamburguesa / Sandwich (1 Filete de pechuga de pollo apanado, pepinillos...)",
+        "buy": "Comprar"
+
+    },
+    "h-3":{
+        "price": "15.900 COP",
+        "title": "Combo BBQ Crunch",
+        "description": "1 Sandwich BBQ Crunch + 1 Papa Pequeña + 1 Gaseosa PET",
+        "buy": "Comprar"
+
+    },
+    "h-4":{
+        "price": "16.900 COP",
+        "title": "Kentucky Coronel Sandwich",
+        "description": "1 Kentucky Coronel hamburguesa / Sandwich (1 Filete de pechuga de pollo apanado, ensalada...)",
+        "buy": "Comprar"
+
+    },
+    "h-5":{
+        "price": "21.900 COP",
+        "title": "Combo Kentucky Sandwich",
+        "description": "1 Kentucky hamburguesa /Sandwich (1 Filete de pechuga de pollo apanado, pepinillos,...)",
+        "buy": "Comprar"
+
+    },
+    "h-6":{
+        "price": "22.900 COP",
+        "title": "Combo Kentucky Coronel Sandwich",
+        "description": "1 Kentucky Coronel hamburguesa / Sandwich (1 Filete de pechuga de pollo apanado, Ensalada...).",
+        "buy": "Comprar"
+
+    },
+    "h-7":{
+        "price": "23.900 COP",
+        "title": "Sandwich Crispy BBQ",
+        "description": "1 Sandwich Crispy BBQ (1 Filete de pechuga extra grande, triple empanizado, cebolla crisp...).",
+        "buy": "Comprar"
+
+    },
+    "h-8":{
+        "price": "29.900 COP",
+        "title": "Combo Sandwich Crispy BBQ",
+        "description": "1 Sandwich Crispy BBQ (1 Filete de pechuga extra grande, triple empanizado, cebolla crisp...)",
+        "buy": "Comprar"
+
+    }
+}
