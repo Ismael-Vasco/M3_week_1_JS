@@ -6,13 +6,13 @@
 }
 
 .kfc-logo {
-    height: 160px;
+    height: 140px;
 }
 
 /* Ajustes mobile */
 @media (max-width: 576px) {
     .kfc-logo {
-        height: 50px;
+        height: 100px;
     }
 
     .header-controls select {
