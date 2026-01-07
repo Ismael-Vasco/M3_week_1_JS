@@ -7,42 +7,18 @@
     <title>Login | KFC</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="./css/style.css">
-    <link rel="stylesheet" href="./css/home_style.css">
 </head>
 
 <body data-bs-theme="light">
-    <header class="kfc-header">
-        <div class="container">
-            <div class="row align-items-center gy-3">
-                <!-- Logo -->
-                <div class="col-12 col-md-6 text-center text-md-start">
+    <div class="container d-flex justify-content-center align-items-center vh-100">
+        <div class="card p-4 w-100" style="max-width: 400px;">
+            <div class="mb-3">
+                <div class="d-flex justify-content-center">
                     <img src="../assets/Logo.png" alt="KFC Logo" class="kfc-logo">
                 </div>
-                <!-- Selects -->
-                <div class="col-12 col-md-6">
-                    <div class="d-flex flex-column flex-sm-row justify-content-md-end gap-3">
-                        <select class="form-select" id="form-lang">
-                            <option data-section="form-lang" data-value="select" selected>Idioma</option>
-                            <option data-section="form-lang" data-value="es" value="es">Español</option>
-                            <option data-section="form-lang" data-value="en" value="en">English</option>
-                        </select>
-
-                        <select class="form-select" id="form-theme">
-                            <option data-section="form-theme" data-value="select" selected>Tema</option>
-                            <option data-section="form-theme" data-value="light" value="light">Claro</option>
-                            <option data-section="form-theme" data-value="dark" value="dark">Oscuro</option>
-                        </select>
-                    </div>
-                </div>
             </div>
-
-        </div>
-    </header>
-
-    <div data-bs-theme="light" id="card" class="container d-flex justify-content-center align-items-center mt-5">
-        <div data-bs-theme="light" id="card" class="card p-4 w-100" style="max-width: 400px;">
             <h2 class="text-center mb-4">Iniciar sesión</h2>
-            <form data-bs-theme="light" id="card">
+            <form>
                 <div class="mb-3 w-100 alert alert-danger" id="advice" style="display:none;">
                     <span id="advice-message">
                         Credenciales Incorrectas
@@ -73,7 +49,6 @@
     </div>
 
     <script src="./JS/script_login.js"></script>
-    <script src="./JS/script_home.js"></script>
 </body>
 
 </html>

@@ -2,12 +2,10 @@
 // change theme
 const form_theme = document.getElementById('form-theme');
 const body = document.body;
-const card = document.getElementById('card');
 
 // Leer el tema guardado en localStorage o usar 'auto'
 const savedTheme = localStorage.getItem('theme') || 'auto';
 body.setAttribute('data-bs-theme', savedTheme);
-card.setAttribute('data-bs-theme', savedTheme);
 
 
 // Manejar el clic del botón
@@ -17,7 +15,6 @@ form_theme.addEventListener('change', function(event) {
     let newTheme = event.target.value;
 
     body.setAttribute('data-bs-theme', newTheme);
-    card.setAttribute('data-bs-theme', newTheme);
     localStorage.setItem('theme', newTheme); // Guarda la preferencia
 });
 

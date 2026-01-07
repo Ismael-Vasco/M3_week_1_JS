@@ -3,6 +3,16 @@
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+.kfc-logo {
+    height: 140px;
+}
+
+/* Ajustes mobile */
+@media (max-width: 576px) {
+    .kfc-logo {
+        height: 100px;
+    }
+}
 
 .btn-primary {
     background-color: #dc3545;
