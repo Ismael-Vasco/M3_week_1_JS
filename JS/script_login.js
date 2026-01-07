@@ -21,3 +21,10 @@ login_btn.addEventListener('click', function(){
     advice.style.display = 'block';
 
 });
+// Authomatic translate with google
+function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+        pageLanguage: 'es',
+        includedLanguages: 'en'
+    }, 'google_translate_element');
+}
